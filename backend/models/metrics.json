@@ -1,0 +1,8 @@
+{
+  "train_rows": 4800,
+  "test_rows": 1200,
+  "yield_r2": 0.9812,
+  "yield_mae_t_ha": 0.593,
+  "pest_accuracy": 0.8633,
+  "pest_macro_f1": 0.8582
+}
